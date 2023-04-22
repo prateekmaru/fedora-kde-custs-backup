@@ -12,3 +12,6 @@ Screenshot && Video
 ![image_2023-04-23_00-52-14](https://user-images.githubusercontent.com/47496067/233803209-b8bc68fd-eaff-4892-a51f-34407b5c7730.png)
 
 ### video repo link 
+<a href="https://raw.githubusercontent.com/prateekmaru/fedora-kde-custs-backup/stock-config/stock-config/video_2023-04-23_01-02-49.mp4"> 
+LINK
+</a>

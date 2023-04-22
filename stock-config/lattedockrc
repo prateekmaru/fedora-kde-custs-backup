@@ -1,0 +1,38 @@
+[KFileDialog Settings]
+Recent Files[$e]=plasma-monterey.layout.latte,file:$HOME/Documents/BigSurTheme/WhiteSur-kde/latte-dock/WhiteSur.layout.latte,file:$HOME/Downloads/Icon-Launchpad/launchpad.png,file:$HOME/Downloads/Latte-Dock-Config/plasma-monterey.layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/Latte-Dock-Config/,file:$HOME/Downloads/Icon-Launchpad/,file:$HOME/Documents/BigSurTheme/WhiteSur-kde/latte-dock/
+detailViewIconSize=16
+
+[LatteSettingsDialog]
+downloadWindowSize=980,600
+windowSize=1108,747
+
+[LatteSettingsDialog][DetailsDialog]
+windowSize=560,640
+
+[LatteSettingsDialog][TabLayouts]
+columnWidths=48,508,129,104
+sortColumn=3
+sortOrder=0
+
+[PlasmaThemeExtended]
+outlineWidth=1
+
+[ScreenConnectors]
+10=eDP-1:::0,0 1366x768
+
+[UniversalSettings]
+badges3DStyle=true
+canDisableBorders=true
+contextMenuActionsAlwaysShown=_layouts,_preferences,_quit_latte,_separator1,_add_latte_widgets,_add_view
+inAdvancedModeForEditSettings=false
+isAvailableGeometryBroadcastedToPlasma=true
+launchers=
+memoryUsage=0
+metaPressAndHoldEnabled=true
+mouseSensitivity=2
+screenTrackerInterval=2500
+showInfoWindow=true
+singleModeLayoutName=WhiteSur
+userConfiguredAutostart=true
+version=2

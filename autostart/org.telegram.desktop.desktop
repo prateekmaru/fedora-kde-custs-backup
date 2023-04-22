@@ -1,0 +1,5 @@
+[Desktop Entry]
+Exec=flatpak run --command=telegram-desktop org.telegram.desktop -autostart
+Name=org.telegram.desktop
+Type=Application
+X-Flatpak=org.telegram.desktop

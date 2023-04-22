@@ -8,6 +8,9 @@ Screenshot && Video
 ### darkUI
 ![image_2023-04-23_00-47-34](https://user-images.githubusercontent.com/47496067/233803158-f40ef6c2-32c1-49ed-9626-c1dd2c968cba.png)
 
+![image](https://user-images.githubusercontent.com/47496067/233804075-c8714129-d11e-4423-8afe-ee1721aa6a42.png)
+
+
 ### liteUI
 ![image_2023-04-23_00-52-14](https://user-images.githubusercontent.com/47496067/233803209-b8bc68fd-eaff-4892-a51f-34407b5c7730.png)
 
